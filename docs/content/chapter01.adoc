@@ -1,0 +1,5 @@
+== Introducción
+
+.Placa NodeMCU con un ESP8266
+[.text-center, width=50%]
+image::figure01.png[alt]
